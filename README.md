@@ -1,6 +1,6 @@
 # PolyTranslate: A Versatile English-to-Multilingual Translator
 
-[PolyTranslate]() is an advanced translation tool designed to convert English text into a wide array of languages with ease and accuracy. Utilizing state-of-the-art models from Facebook’s M2M100, this app provides seamless translation capabilities for numerous languages.
+[PolyTranslate](https://polytranslate.streamlit.app/) is an advanced translation tool designed to convert English text into a wide array of languages with ease and accuracy. Utilizing state-of-the-art models from Facebook’s M2M100, this app provides seamless translation capabilities for numerous languages.
 
 ## Features
 - **Wide Range of Languages:** Translate English text into over 50 languages, from popular ones like Spanish to less common options like Xhosa.
