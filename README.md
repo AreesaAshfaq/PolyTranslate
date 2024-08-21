@@ -14,18 +14,18 @@
 - **Translate:** Click the “Translate” button and watch as your text is transformed into your chosen language.
 
 ## Supported Languages Include:
-Afrikaans
-Arabic
-Chinese (Simplified)
-French
-German
-Hindi
-Japanese
-Korean
-Portuguese
-Russian
-Spanish
-Turkish
+- Afrikaans,
+Arabic,
+Chinese (Simplified),
+French,
+German,
+Hindi,
+Japanese,
+Korean,
+Portuguese,
+Russian,
+Spanish,
+Turkish,
 Urdu
 And many more!
-Whether you’re traveling, learning a new language, or just curious, PolyTranslate makes multilingual communication easy and accessible. Try it today and break down language barriers with ease!
+- Whether you’re traveling, learning a new language, or just curious, PolyTranslate makes multilingual communication easy and accessible. Try it today and break down language barriers with ease!
